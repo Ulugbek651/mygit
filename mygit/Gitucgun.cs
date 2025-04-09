@@ -10,7 +10,10 @@ namespace mygit
     class Gitucgun
     {
 
-       
+       public bool Check()
+        {
+            return true;
+        }
 
     }
 }
